@@ -2,7 +2,7 @@ name: PHP CI with GitHub Actions
 
 on:
   push:
-    branche:
+    branches:
       - test_worflow
 
 jobs:
