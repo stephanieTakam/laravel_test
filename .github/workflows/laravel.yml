@@ -20,7 +20,7 @@ jobs:
           tools: composer, phpunit
 
       - name: Install dependencies
-        run: composer install --no-interaction --prefer-dist
+        run: composer install
 
       - name: Run Unit Tests
         run: ./vendor/bin/phpunit --testsuite Unit
