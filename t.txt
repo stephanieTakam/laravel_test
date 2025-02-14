@@ -5,9 +5,9 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "laravel/framework": "^8.0",
-        "opis/closure": "^3.6",   
-        "symfony/polyfill-mbstring": "^1.31",
+        "laravel/framework": "^8.0", 
+        "opis/closure": "^3.6", 
+        "symfony/polyfill-mbstring": "^1.31", 
         "symfony/mailer": "^6.0", 
         "symfony/error-handler": "^6.0" 
     },
